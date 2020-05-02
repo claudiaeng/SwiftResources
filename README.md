@@ -7,4 +7,5 @@ A compilation of Swift articles, videos, and repos.
 
 ## Repos
 - [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout)
-- [RecordButton](https://github.com/samuelbeek/RecordButton)
+- [RecordButton – like Vine and Snapchat](https://github.com/samuelbeek/RecordButton)
+- [Reduction – Swift text summarizer](https://github.com/fdzsergio/Reductio)
