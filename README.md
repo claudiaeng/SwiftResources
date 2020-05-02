@@ -7,3 +7,4 @@ A compilation of Swift articles, videos, and repos.
 
 ## Repos
 - [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout)
+- [RecordButton](https://github.com/samuelbeek/RecordButton)
