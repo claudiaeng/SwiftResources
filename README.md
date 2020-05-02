@@ -9,3 +9,4 @@ A compilation of Swift articles, videos, and repos.
 - [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout)
 - [RecordButton – like Vine and Snapchat](https://github.com/samuelbeek/RecordButton)
 - [Reduction – Swift text summarizer](https://github.com/fdzsergio/Reductio)
+- [GSImageViewerController](https://github.com/wxxsw/GSImageViewerController)
