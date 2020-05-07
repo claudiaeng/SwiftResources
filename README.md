@@ -1,6 +1,5 @@
-# SwiftResources
-A compilation of Swift articles, videos, and repos.
----
+<h1 align="center">Swift Resources</h1>
+<div align="center"><strong>A compilation of Swift articles, videos, and repos.</strong></div>
 
 ## Articles
 - [How to display HTML in UILabel and UITextView](https://sarunw.com/posts/how-to-display-html-in-uilabel-and-uitextview/)
